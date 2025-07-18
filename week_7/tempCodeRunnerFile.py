@@ -1,0 +1,1 @@
+re.search(r"\W\s?um\W\s?",s):
